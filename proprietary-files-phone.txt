@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from OnePlus 13 (CPH2653_16.0.3.501(EX01)).
+## are from OnePlus 13T (PKX110_16.0.3.501(CN01)).
 
 # CNE
 vendor/app/CACertService/CACertService.apk
@@ -139,11 +139,6 @@ vendor/lib64/vendor.libdpmfdmgr.so
 vendor/lib64/vendor.libdpmframework.so
 vendor/lib64/vendor.libdpmtcm.so
 vendor/lib64/vendor.qti.hardware.dpmaidlservice-V1-ndk.so;MODULE_SUFFIX=_vendor
-
-# eSIM
-odm/bin/hw/vendor.oplus.hardware.esim@1.0-service
-odm/etc/init/esim@1.0-service.rc
-odm/etc/vintf/manifest/manifest_oplus_esim.xml
 
 # Fingerprint
 odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service_uff
@@ -345,7 +340,8 @@ odm/etc/oem_asm2_tunner_platform_license.pfm
 odm/etc/oem_asm2_tunner_platform_trail_license.pfm
 odm/etc/oem_q_tunner_platform_license.pfm
 odm/etc/oem_q_tunner_platform_trail_license.pfm
-odm/etc/oem_stx_platform_license.pfm
+odm/etc/oem_qpm8590_qeb_platform_license.pfm
+odm/etc/oem_qpm8590_qeb_platform_trail_license.pfm
 odm/etc/plugin_config.xml
 odm/lib64/lib-virtual-modem-protos.so
 odm/lib64/libcommcenterfw.so
